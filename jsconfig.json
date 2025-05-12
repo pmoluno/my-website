@@ -1,7 +1,25 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@components/*": ["./src/components/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@styles/*": ["./src/styles/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@context/*": ["./src/context/*"],
+      "@pages/*": ["./src/pages/*"],  
+      "@services/*": ["./src/services/*"],
+      "@constants/*": ["./src/constants/*"],
+      "@types/*": ["./src/types/*"],
+      "@mocks/*": ["./src/mocks/*"],
+      "@tests/*": ["./src/tests/*"],
+      "@config/*": ["./src/config/*"],
+      "@store/*": ["./src/store/*"],
+      "@api/*": ["./src/api/*"],
+      "@middleware/*": ["./src/middleware/*"],
+      "@lib/*": ["./src/lib/*"],
+      "@validators/*": ["./src/validators/*"],
     }
   }
 }
