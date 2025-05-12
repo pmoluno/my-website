@@ -38,6 +38,7 @@ export default function RootLayout({ children }) {
             `,
           }}
         />
+         <meta name="robots" content="noindex, nofollow" />
       </head>
       <body>
         {children}
