@@ -2,7 +2,7 @@ import ButtonModals from "./ButtonModals";
 
 export default function Hero() {
     return (
-        <div className="hero">
+        <div className="hero" style={{paddingBottom: "100px"}}>
             <div className="container">
                 <div className="row">
                     <div className="col-md-3"></div>
